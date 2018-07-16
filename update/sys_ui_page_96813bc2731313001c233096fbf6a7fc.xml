@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
     <sys_ui_page action="INSERT_OR_UPDATE">
         <category>general</category>
-        <client_script><![CDATA[console.log("Alok ");]]></client_script>
+        <client_script><![CDATA[console.log("Alok Mittal");]]></client_script>
         <description/>
         <direct>false</direct>
         <endpoint>sn_july_16_1_pg1.do</endpoint>
